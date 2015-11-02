@@ -1,2 +1,3 @@
 # twitterStream
-A streaming API that fetches real time twitter data
+twitterStream is an API that uses various libraries and tools to fetch real time tweets from twitter stream
+when a user queries a praticular keyword.
